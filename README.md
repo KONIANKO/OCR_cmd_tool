@@ -21,3 +21,5 @@
     pip install -r requirements.txt
 
  2. You will have to install tesseract-ocr-3.02.02 and add it to PATH
+
+    source: https://sourceforge.net/projects/tesseract-ocr-alt/files/
