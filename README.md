@@ -2,9 +2,10 @@
  
  A tool to extract text from images and pdf files.
 
- Accepted input file formats: png, jpg, pdf
+## Accepted input file formats: 
+ png, jpg, pdf
 
- Usage:
+## Usage:
 
 
  In command promt type:
