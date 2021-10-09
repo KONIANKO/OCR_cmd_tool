@@ -1,6 +1,10 @@
+*.png
+*.jpg
+*.pdf
+*.txt
 
-ocr/ocr/82251504.png
-ocr/ocr/ocr_sample.png
-ocr/ocr/input_pdf.pdf
-ocr/ocr/output.txt
-ocr/ocr/test_scan.jpg
+# whitelist of files
+
+!requirements.txt
+
+
